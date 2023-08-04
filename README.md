@@ -31,7 +31,8 @@
 
 
 ### Backend  
-<div align="Left"  class = ddd id=ddd>  
+<div align="Left"  class = ddd id=ddd background-color: #F0F8FF; 
+		color:#F0F8FF;>  
 <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="50" /></a>  
 <a href="https://dotnet.microsoft.com/download/dotnet-framework" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/dot-net-original-wordmark.svg" alt=".NET" height="50" /></a>  
 <a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
@@ -52,12 +53,8 @@
 	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=osamasu&langs_count=10&show_icons=true&locale=en&theme=tokyonight" alt="manarshahin48" height="230px"/>
 <br/>
 
-<style>
+
+
 
 	
- .ddd{background-color: #F0F8FF; 
-		color:#F0F8FF;}
-	
-	
-	
-</style>
+
