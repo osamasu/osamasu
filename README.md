@@ -44,12 +44,12 @@
 </td><td valign="top" width="33%">
 
 ## 📊 Github Stats
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=manarshahin48&theme=tokyonight_duo" alt="manarshahin48" /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=osamasu&theme=tokyonight_duo" alt="osamasu" /></p>
   <br/>
   <p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-	    <img alt="manarshahin48's Github Stats" src="https://github-readme-stats.vercel.app/api?username=manarshahin48&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact" height="230px"/></a>
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=manarshahin48&langs_count=10&show_icons=true&locale=en&theme=tokyonight" alt="manarshahin48" height="230px"/>
+    <a href="https://github.com/osamasu/github-readme-stats">
+	    <img alt="osamasu's Github Stats" src="https://github-readme-stats.vercel.app/api?username=osamasu&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact" height="230px"/></a>
+	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=osamasu&langs_count=10&show_icons=true&locale=en&theme=tokyonight" alt="manarshahin48" height="230px"/>
 <br/>
 
 <style>
