@@ -21,8 +21,8 @@
 
 ## 📩 Connect with me
 <p align="left">
-    <a href="mailto:osamataher306@outlook.com" title="outlook"><img src="https://img.shields.io/badge/gmail-%23F05033.svg?style=for-the-badge&logo=gmail&logoColor=white"/></a>  
-    <a href="https://www.linkedin.com/in/osama-thabit-mohammed/" title="LinkedIn"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>  
+    <a href="mailto:osamataher306@outlook.com" title="outlook"><img src="https://img.shields.io/badge/gmail-%23F05033.svg?style=for-the-badge&logo=gmail&logoColor=white; target="_blank""/></a>  
+    <a href="https://www.linkedin.com/in/osama-thabit-mohammed/" title="LinkedIn"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"; target="_blank"/></a>  
 </p>
 
 ## 🛠 Languages and Tools
