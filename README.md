@@ -13,7 +13,7 @@
 - 🔭 I’m currently working on [.NET Airplane Application]()
 - 🌱 I’m currently studing `AWS`
 - 📫 How to reach me **osamataher306@outlook.com**
-- 🤔 I’m open for Work Anytime As , this is [MY RESUME](https://drive.google.com/file/d/1HyP3E7MsGhheuTH-s1LKYGext9Exa17M/view?usp=sharing).
+- 🤔 I’m open for Work Anytime As , this is [MY RESUME](Resume link).
 - :nerd_face: Always `learning new things`
 - 🐼 Doing my best 
 
