@@ -1,59 +1,48 @@
+<h2 align="left"></h2>
 
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
-<h1 align="center">Hi 👋, I'm Osama Thabit</h1>
-<h3 align="center">Individual Software Developer | FULL STACK .NET</h3>
-
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=manarshahin48&label=Profile%20views&color=0e75b6&style=flat" alt="manarshahin48" />
-		   <img src="https://img.shields.io/github/followers/manarshahin48?label=Followers" alt="manarshahin48" />
-</p>
-<br>
-<img align="right" src="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif" width = 250px/>
-
-- :school: I am `Passionate .NET Developer` from Science & Technology University
-- 🔭 I’m currently working on [.NET Airplane Application]()
-- 🌱 I’m currently studing `AWS`
-- 📫 How to reach me **osamataher306@outlook.com**
-- 🤔 I’m open for Work Anytime As , this is [MY RESUME](Resume link).
-- :nerd_face: Always `learning new things`
-- 🐼 Doing my best 
-
-<br>
-
-## 📩 Connect with me
-<p align="left">
-    <a href="mailto:osamataher306@outlook.com" title="outlook"><img src="https://img.shields.io/badge/gmail-%23F05033.svg?style=for-the-badge&logo=gmail&logoColor=white; target="_blank""/></a>  
-    <a href="https://www.linkedin.com/in/osama-thabit-mohammed/" target="_blank" title="LinkedIn"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>  
-</p>
-
-## 🛠 Languages and Tools
-<td valign="top" width="33%">
-
-
-
-### Backend  
-<div align="Left"  class = ddd id=ddd background-color: #F0F8FF; 
-		color:#F0F8FF;>  
-<a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="50" /></a>  
-<a href="https://dotnet.microsoft.com/download/dotnet-framework" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/dot-net-original-wordmark.svg" alt=".NET" height="50" /></a>  
-<a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
-<a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" /></a>  
-<a href="https://www.adobe.com/in/products/photoshop.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/photoshop-plain.svg" alt="Photoshop" height="50" /></a>  
+<div style="display: flex; gap: 20px; align-items: center;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=osamasu&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" />
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=osamasu&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" />
 </div>
 
-</td><td valign="top" width="33%">
-
-## 📊 Github Stats
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=osamasu&theme=tokyonight_duo" alt="osamasu" /></p>
-  <br/>
-  <p align="center">
-    <a href="https://github.com/osamasu/github-readme-stats">
-	    <img alt="osamasu's Github Stats" src="https://github-readme-stats.vercel.app/api?username=osamasu&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact" height="230px"/></a>
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=osamasu&langs_count=10&show_icons=true&locale=en&theme=tokyonight" alt="manarshahin48" height="230px"/>
 <br/>
 
+<div align="left" style="margin-top: 10px;">
+  <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge" height="30" alt="linux logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=postman" height="30" alt="postman logo" />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/gnubash/4EAA25" height="30" alt="bash logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=git" height="30" alt="git logo" />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/android/3DDC84" height="30" alt="android logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="30" alt="kotlin logo" />
+</div>
 
+<br/>
 
+<div align="left" style="margin-top: 10px;">
+  <a href="https://www.linkedin.com/in/osama-thabit-mohammed/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=OSAMA%20THABIT&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
+  </a>
+  <a href="mailto:osamataher306@outlook.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=osamataher306&color=0078D4&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="microsoft-outlook logo" />
+  </a>
+</div>
 
-	
+<br/>
 
+<div style="display: flex; align-items: center; justify-content: center; margin-top: 20px;">
+  <img align="right" height="300" src="https://i.pinimg.com/originals/be/c8/ba/bec8ba1045acbe3959cc7c7e38735bdc.gif" alt="Goku gif" />
+</div>
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/osamasu/osamasu/output/snake.svg" alt="Snake animation" />
