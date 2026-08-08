@@ -8,14 +8,10 @@
 
 <br/>
 
-<img src="https://img.shields.io/badge/●_OPEN_TO_WORK-Riyadh,_Saudi_Arabia-2ea043?style=for-the-badge&labelColor=1a0500" height="30"/>
-
-<br/>
 
 [![LinkedIn](https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=OSAMA%20THABIT&color=0077B5&logoColor=white&labelColor=1a0500&style=for-the-badge)](https://www.linkedin.com/in/osama-thabit-mohammed/)
 [![Outlook](https://img.shields.io/static/v1?message=Email&logo=microsoft-outlook&label=osamataher306&color=0078D4&logoColor=white&labelColor=1a0500&style=for-the-badge)](mailto:osamataher306@outlook.com)
 [![Resume](https://img.shields.io/static/v1?message=Resume&logo=googledrive&label=CV&color=B8341E&logoColor=white&labelColor=1a0500&style=for-the-badge)](https://drive.google.com/file/d/1j1L8Dflj5OqbhbgQa4h1rp5LNSxOe1zk/view)
-[![Website](https://img.shields.io/static/v1?message=osama.live&logo=googlechrome&label=Portfolio&color=B8341E&logoColor=white&labelColor=1a0500&style=for-the-badge)](https://osama.live)
 
 </div>
 
