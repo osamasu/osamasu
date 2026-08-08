@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0500,50:B8341E,100:1a0500&height=220&section=header&text=OSAMA%20THABIT&fontSize=62&fontColor=ffffff&fontAlignY=38&fontFamily=Roboto&desc=Software%20Engineer%20%C2%B7%20Full-Stack&descAlignY=58&descSize=20&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0500,50:B8341E,100:1a0500&height=220&section=header&text=OSAMA%20THABIT&fontSize=62&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%C2%B7%20Full-Stack&descAlignY=58&descSize=20&animation=fadeIn" width="100%"/>
 
 <a href="https://osama.live" target="_blank">
   <img src="https://img.shields.io/badge/🌐_osama.live-VISIT_MY_WEBSITE-B8341E?style=for-the-badge&labelColor=1a0500&logoColor=white" height="55" alt="website"/>
@@ -38,21 +38,25 @@ data integrity, clean architecture, and interfaces people actually enjoy using.
 
 <div align="center">
 
-<sub><b>⚙️ BACKEND · DATABASE · DEVOPS</b></sub>
-<br/>
-<img src="https://skillicons.dev/icons?i=cs,dotnet,docker,redis&theme=dark" height="80"/>
-<img width="16"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="80" alt="SQL Server"/>
-<br/>
-<sub>C# · .NET · Docker · Redis · SQL Server</sub>
+<img src="https://img.shields.io/badge/CORE%20STACK-B8341E?style=for-the-badge&labelColor=1a0500" height="26"/>
+
+<br/><br/>
+
+<img src="https://skillicons.dev/icons?i=cs,dotnet,docker,redis&theme=dark" height="90"/>
+<img width="14"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="90" alt="SQL Server"/>
 
 <br/>
 
-<sub>frontend & tooling</sub>
-<br/>
-<img src="https://skillicons.dev/icons?i=vue,nuxt,js,ts,html,css&theme=dark" height="32"/>
-<img width="10"/>
-<img src="https://skillicons.dev/icons?i=cpp,git,bash,linux,androidstudio,postman,vscode&theme=dark" height="32"/>
+<sub><b>C#</b> &nbsp;·&nbsp; <b>.NET</b> &nbsp;·&nbsp; <b>Docker</b> &nbsp;·&nbsp; <b>Redis</b> &nbsp;·&nbsp; <b>SQL Server</b></sub>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/ALSO%20USE-3a3a3a?style=for-the-badge&labelColor=1a0500" height="22"/>
+
+<br/><br/>
+
+<img src="https://skillicons.dev/icons?i=vue,nuxt,js,ts,html,css,cpp,git,bash,linux,androidstudio,postman,vscode&theme=dark" height="30"/>
 
 </div>
 
@@ -60,12 +64,12 @@ data integrity, clean architecture, and interfaces people actually enjoy using.
 
 | Category | Stack |
 |---|---|
-| **Backend / Desktop** | **C#, .NET, WinForms, ERP & business-logic systems** |
-| **Database** | **SQL Server** |
-| **DevOps** | **Docker, Redis** |
-| Frontend | Vue, Nuxt, HTML, CSS, JS/TS |
-| Languages | C++, VB.NET, Bash |
-| Tools | Git, Postman, Linux, Android, VS Code |
+| 🔴 **Backend / Desktop** | **C#, .NET, WinForms, ERP & business-logic systems** |
+| 🔴 **Database** | **SQL Server** |
+| 🔴 **DevOps** | **Docker, Redis** |
+| ⚪ Frontend | Vue, Nuxt, HTML, CSS, JS/TS |
+| ⚪ Languages | C++, VB.NET, Bash |
+| ⚪ Tools | Git, Postman, Linux, Android, VS Code |
 
 <br/>
 
