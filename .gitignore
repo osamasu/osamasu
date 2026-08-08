@@ -1,0 +1,77 @@
+## ===== Visual Studio / .NET / C# build output =====
+[Bb]in/
+[Oo]bj/
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+[Ll]og/
+[Ll]ogs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+*.pdb
+*.ilk
+*.meta
+*.cache
+*.tlog
+*.lastbuildstate
+*.log
+*.vs/
+.vs/
+*.userprefs
+*.dbmdl
+*.jfm
+*.pfx
+*.publishsettings
+node_modules/
+bower_components/
+
+## ===== Visual Studio directories/files =====
+.vshistory/
+*.opendb
+*.VC.db
+*.VC.VC.opendb
+
+## ===== NuGet =====
+*.nupkg
+*.snupkg
+**/[Pp]ackages/*
+!**/[Pp]ackages/build/
+*.nuget.props
+*.nuget.targets
+
+## ===== Build results =====
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]64/
+bld/
+[Bb]uild/
+[Bb]uilds/
+msbuild.log
+msbuild.err
+msbuild.wrn
+
+## ===== Node / Vue / Nuxt =====
+node_modules/
+.nuxt/
+.output/
+.data/
+dist/
+.env
+.env.local
+.env.*.local
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+.cache/
+.vite/
+
+## ===== OS / editor junk =====
+.DS_Store
+Thumbs.db
+*.swp
+.idea/
+.vscode/
+*~
