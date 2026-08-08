@@ -38,7 +38,7 @@ data integrity, clean architecture, and interfaces people actually enjoy using.
 
 <div align="center">
 
-<table>
+<table width="100%">
 <tr>
 <td align="right" width="42%">
 <img src="https://img.shields.io/badge/BACKEND_%26_DATA-B8341E?style=for-the-badge&labelColor=1a0500" alt="Backend & Data"/>
