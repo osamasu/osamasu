@@ -1,16 +1,16 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0500,50:B8341E,100:1a0500&height=220&section=header&text=OSAMA%20THABIT&fontSize=62&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%C2%B7%20Full-Stack&descAlignY=58&descSize=20&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0500,50:B8341E,100:1a0500&height=220&section=header&text=OSAMA%20THABIT&fontSize=62&fontColor=ffffff&fontAlignY=38&fontFamily=Roboto&desc=Software%20Engineer%20%C2%B7%20Full-Stack&descAlignY=58&descSize=20&animation=fadeIn" width="100%"/>
 
 <a href="https://osama.live" target="_blank">
   <img src="https://img.shields.io/badge/🌐_osama.live-VISIT_MY_WEBSITE-B8341E?style=for-the-badge&labelColor=1a0500&logoColor=white" height="55" alt="website"/>
 </a>
 
-<br/><br/>
+<br/>
 
 <img src="https://img.shields.io/badge/●_OPEN_TO_WORK-Riyadh,_Saudi_Arabia-2ea043?style=for-the-badge&labelColor=1a0500" height="30"/>
 
-<br/><br/>
+<br/>
 
 [![LinkedIn](https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=OSAMA%20THABIT&color=0077B5&logoColor=white&labelColor=1a0500&style=for-the-badge)](https://www.linkedin.com/in/osama-thabit-mohammed/)
 [![Outlook](https://img.shields.io/static/v1?message=Email&logo=microsoft-outlook&label=osamataher306&color=0078D4&logoColor=white&labelColor=1a0500&style=for-the-badge)](mailto:osamataher306@outlook.com)
@@ -43,23 +43,17 @@ data integrity, clean architecture, and interfaces people actually enjoy using.
 <div align="center">
 
 <sub><b>⚙️ BACKEND · DATABASE · DEVOPS</b></sub>
-
-<br/><br/>
-
+<br/>
 <img src="https://skillicons.dev/icons?i=cs,dotnet,docker,redis&theme=dark" height="80"/>
 <img width="16"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="80" alt="SQL Server"/>
-
-<br/><br/>
-
+<br/>
 <sub>C# · .NET · Docker · Redis · SQL Server</sub>
-
-<br/><br/>
-
-<sub>frontend & tooling</sub>
 
 <br/>
 
+<sub>frontend & tooling</sub>
+<br/>
 <img src="https://skillicons.dev/icons?i=vue,nuxt,js,ts,html,css&theme=dark" height="32"/>
 <img width="10"/>
 <img src="https://skillicons.dev/icons?i=cpp,git,bash,linux,androidstudio,postman,vscode&theme=dark" height="32"/>
@@ -70,9 +64,9 @@ data integrity, clean architecture, and interfaces people actually enjoy using.
 
 | Category | Stack |
 |---|---|
-| ⭐ **Backend / Desktop** | **C#, .NET, WinForms, ERP & business-logic systems** |
-| ⭐ **Database** | **SQL Server** |
-| ⭐ **DevOps** | **Docker, Redis** |
+| **Backend / Desktop** | **C#, .NET, WinForms, ERP & business-logic systems** |
+| **Database** | **SQL Server** |
+| **DevOps** | **Docker, Redis** |
 | Frontend | Vue, Nuxt, HTML, CSS, JS/TS |
 | Languages | C++, VB.NET, Bash |
 | Tools | Git, Postman, Linux, Android, VS Code |
