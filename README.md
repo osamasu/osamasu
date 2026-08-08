@@ -36,7 +36,7 @@ data integrity, clean architecture, and interfaces people actually enjoy using.
 
 ## 🛠️ Tech Stack
 
-<div align="center">
+<div align="left">
 
 <table width="120%">
 <tr>
