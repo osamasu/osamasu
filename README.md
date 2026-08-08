@@ -8,7 +8,6 @@
 
 <br/>
 
-
 [![LinkedIn](https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=OSAMA%20THABIT&color=0077B5&logoColor=white&labelColor=1a0500&style=for-the-badge)](https://www.linkedin.com/in/osama-thabit-mohammed/)
 [![Outlook](https://img.shields.io/static/v1?message=Email&logo=microsoft-outlook&label=osamataher306&color=0078D4&logoColor=white&labelColor=1a0500&style=for-the-badge)](mailto:osamataher306@outlook.com)
 [![Resume](https://img.shields.io/static/v1?message=Resume&logo=googledrive&label=CV&color=B8341E&logoColor=white&labelColor=1a0500&style=for-the-badge)](https://drive.google.com/file/d/1j1L8Dflj5OqbhbgQa4h1rp5LNSxOe1zk/view)
@@ -40,30 +39,31 @@ data integrity, clean architecture, and interfaces people actually enjoy using.
 
 <table width="120%">
 <tr>
-<td align="right" width="42%">
+<td align="center" width="42%">
 <img src="https://img.shields.io/badge/BACKEND_%26_DATA-B8341E?style=for-the-badge&labelColor=1a0500" alt="Backend & Data"/>
 </td>
 <td align="left" width="68%">
-<img src="https://skillicons.dev/icons?i=cs,dotnet,docker,redis&theme=dark" height="58"/>
+<img src="https://skillicons.dev/icons?i=cs,cpp,dotnet,docker,redis,mysql&theme=dark" height="58"/>
 <br/>
 </td>
 </tr>
 <tr>
-<td align="right">
-<img src="https://img.shields.io/badge/FRONTEND-2b2b2b?style=for-the-badge&labelColor=1a0500" alt="Frontend"/>
-</td>
-<td align="left">
-<img src="https://skillicons.dev/icons?i=vue,nuxt,js,ts,html,css&theme=dark" height="34"/>
-</td>
-</tr>
-<tr>
-<td align="right">
+<td align="center">
 <img src="https://img.shields.io/badge/TOOLING-2b2b2b?style=for-the-badge&labelColor=1a0500" alt="Tooling"/>
 </td>
 <td align="left">
-<img src="https://skillicons.dev/icons?i=cpp,git,bash,linux,androidstudio,postman,vscode&theme=dark" height="34"/>
+<img src="https://skillicons.dev/icons?i=git,bash,linux,postman,vscode,visualstudio&theme=dark" height="47"/>
 </td>
 </tr>
+<tr>
+<td align="center">
+<img src="https://img.shields.io/badge/FRONTEND-2b2b2b?style=for-the-badge&labelColor=1a0500" alt="Frontend"/>
+</td>
+<td align="left">
+<img src="https://skillicons.dev/icons?i=vue,bootstrap,js,ts,html,css&theme=dark" height="39"/>
+</td>
+</tr>
+
 </table>
 
 </div>
