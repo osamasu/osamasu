@@ -42,11 +42,11 @@ data integrity, clean architecture, and interfaces people actually enjoy using.
 
 <br/><br/>
 
-<img src="https://custom-icon-badges.demolab.com/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" height="36"/>
-<img src="https://custom-icon-badges.demolab.com/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" height="36"/>
-<img src="https://custom-icon-badges.demolab.com/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" height="36"/>
-<img src="https://custom-icon-badges.demolab.com/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" height="36"/>
-<img src="https://custom-icon-badges.demolab.com/badge/SQL_Server-CC2927?style=for-the-badge&logo=mssqlserver-white&logoColor=white" height="36"/>
+<img src="https://skillicons.dev/icons?i=cs,dotnet,docker,redis&theme=dark" height="90"/>
+
+<br/>
+
+<sub><b>C#</b> &nbsp;·&nbsp; <b>.NET</b> &nbsp;·&nbsp; <b>Docker</b> &nbsp;·&nbsp; <b>Redis</b> &nbsp;·&nbsp; <b>SQL Server</b></sub>
 
 <br/><br/>
 
