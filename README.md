@@ -49,7 +49,7 @@ data integrity, clean architecture, and interfaces people actually enjoy using.
 </tr>
 <tr>
 <td align="center">
-<img src="https://img.shields.io/badge/TOOLING-2b2b2b?style=for-the-badge&labelColor=1a0500" alt="Tooling"/>
+<img src="https://img.shields.io/badge/DAILY_TOOLS-1D72B8?style=for-the-badge&labelColor=1a0500" alt="Tools"/>
 </td>
 <td align="left">
 <img src="https://skillicons.dev/icons?i=git,bash,linux,postman,vscode,visualstudio&theme=dark" height="47"/>
@@ -57,7 +57,7 @@ data integrity, clean architecture, and interfaces people actually enjoy using.
 </tr>
 <tr>
 <td align="center">
-<img src="https://img.shields.io/badge/FRONTEND-2b2b2b?style=for-the-badge&labelColor=1a0500" alt="Frontend"/>
+<img src="https://img.shields.io/badge/FRONTEND-B81D70?style=for-the-badge&labelColor=1a0500" alt="Frontend"/>
 </td>
 <td align="left">
 <img src="https://skillicons.dev/icons?i=vue,bootstrap,js,ts,html,css&theme=dark" height="39"/>
