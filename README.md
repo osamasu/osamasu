@@ -34,12 +34,7 @@ I build **ERP systems**, desktop tools, and web apps — from C#/.NET back-offic
 software to Vue/Nuxt front-ends. I care about the boring-but-critical stuff:
 data integrity, clean architecture, and interfaces people actually enjoy using.
 
-<img align="right" width="160" src="assets/anime-wave.gif"/>
-
-Off the clock — anime marathons (**Goku** never skips leg day, **Violet
-Evergarden** made me cry over a typewriter, **Free!** is why I can't watch a
-pool without narrating it). No deep philosophy here, just good shows and
-better coffee. 👋
+<img align="right" width="160" src="assets/goku.gif"/>
 
 <br clear="right"/>
 
@@ -47,9 +42,27 @@ better coffee. 👋
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=cs,dotnet,cpp,vue,nuxt,js,ts,html,css,docker,git,bash,linux,androidstudio,postman,vscode&theme=dark" height="48"/>
-<img width="12"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="48" alt="SQL Server"/>
+<sub><b>⚙️ BACKEND · DATABASE · DEVOPS</b></sub>
+
+<br/><br/>
+
+<img src="https://skillicons.dev/icons?i=cs,dotnet,docker,redis&theme=dark" height="80"/>
+<img width="16"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="80" alt="SQL Server"/>
+
+<br/><br/>
+
+<sub>C# · .NET · Docker · Redis · SQL Server</sub>
+
+<br/><br/>
+
+<sub>frontend & tooling</sub>
+
+<br/>
+
+<img src="https://skillicons.dev/icons?i=vue,nuxt,js,ts,html,css&theme=dark" height="32"/>
+<img width="10"/>
+<img src="https://skillicons.dev/icons?i=cpp,git,bash,linux,androidstudio,postman,vscode&theme=dark" height="32"/>
 
 </div>
 
@@ -57,10 +70,12 @@ better coffee. 👋
 
 | Category | Stack |
 |---|---|
-| **Languages** | C#, C++, VB.NET, JavaScript / TypeScript, Bash |
-| **Backend / Desktop** | .NET, WinForms, ERP & business-logic systems, SQL Server |
-| **Frontend** | Vue, Nuxt, HTML, CSS |
-| **DevOps / Tools** | Docker, Git, Postman, Linux, Android |
+| ⭐ **Backend / Desktop** | **C#, .NET, WinForms, ERP & business-logic systems** |
+| ⭐ **Database** | **SQL Server** |
+| ⭐ **DevOps** | **Docker, Redis** |
+| Frontend | Vue, Nuxt, HTML, CSS, JS/TS |
+| Languages | C++, VB.NET, Bash |
+| Tools | Git, Postman, Linux, Android, VS Code |
 
 <br/>
 
