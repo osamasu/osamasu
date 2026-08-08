@@ -30,7 +30,7 @@ I build **ERP systems**, desktop tools, and web apps — from C#/.NET back-offic
 software to Vue/Nuxt front-ends. I care about the boring-but-critical stuff:
 data integrity, clean architecture, and interfaces people actually enjoy using.
 
-<img align="right" width="160" src="assets/goku.gif"/>
+<img align="right" width="300" src="assets/goku.gif"/>
 
 <br clear="right"/>
 
@@ -38,15 +38,14 @@ data integrity, clean architecture, and interfaces people actually enjoy using.
 
 <div align="center">
 
-<table width="100%">
+<table width="120%">
 <tr>
 <td align="right" width="42%">
 <img src="https://img.shields.io/badge/BACKEND_%26_DATA-B8341E?style=for-the-badge&labelColor=1a0500" alt="Backend & Data"/>
 </td>
-<td align="left" width="58%">
+<td align="left" width="68%">
 <img src="https://skillicons.dev/icons?i=cs,dotnet,docker,redis&theme=dark" height="58"/>
 <br/>
-<sub>C# &nbsp;·&nbsp; .NET &nbsp;·&nbsp; Docker &nbsp;·&nbsp; Redis &nbsp;·&nbsp; SQL Server</sub>
 </td>
 </tr>
 <tr>
