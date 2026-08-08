@@ -28,25 +28,28 @@ name: Osama Thabit
 role: Full-Stack Software Engineer
 base: Riyadh, Saudi Arabia
 focus: Clean APIs, pixel-perfect UIs, and ERP systems that don't break at 2am
-philosophy: "Plan Ultra Instinct. Ship like Goku. Craft like Violet Evergarden."
 ```
 
 I build **ERP systems**, desktop tools, and web apps — from C#/.NET back-office
 software to Vue/Nuxt front-ends. I care about the boring-but-critical stuff:
 data integrity, clean architecture, and interfaces people actually enjoy using.
 
-When I'm not shipping code, I'm probably rewatching **Violet Evergarden** for
-the writing, or watching **Goku** turn "impossible" into "Tuesday" in
-**Dragon Ball**. Both taught me the same lesson in different languages:
-*master the fundamentals, then push past your limit.*
+<img align="right" width="160" src="assets/anime-wave.gif"/>
 
-<br/>
+Off the clock — anime marathons (**Goku** never skips leg day, **Violet
+Evergarden** made me cry over a typewriter, **Free!** is why I can't watch a
+pool without narrating it). No deep philosophy here, just good shows and
+better coffee. 👋
+
+<br clear="right"/>
 
 ## 🛠️ Tech Stack
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=cs,dotnet,vue,nuxt,mssql,cpp,git,bash,linux,androidstudio,postman&theme=dark" />
+<img src="https://skillicons.dev/icons?i=cs,dotnet,cpp,vue,nuxt,js,ts,html,css,docker,git,bash,linux,androidstudio,postman,vscode&theme=dark" height="48"/>
+<img width="12"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="48" alt="SQL Server"/>
 
 </div>
 
@@ -54,10 +57,10 @@ the writing, or watching **Goku** turn "impossible" into "Tuesday" in
 
 | Category | Stack |
 |---|---|
-| **Languages** | C#, C++, JavaScript/TypeScript, Bash |
+| **Languages** | C#, C++, VB.NET, JavaScript / TypeScript, Bash |
 | **Backend / Desktop** | .NET, WinForms, ERP & business-logic systems, SQL Server |
-| **Frontend** | Vue, Nuxt |
-| **Tools** | Git, Postman, Linux, Android |
+| **Frontend** | Vue, Nuxt, HTML, CSS |
+| **DevOps / Tools** | Docker, Git, Postman, Linux, Android |
 
 <br/>
 
@@ -82,46 +85,6 @@ Front-ends built with Vue/Nuxt — including my own site,
 </td>
 </tr>
 </table>
-
-<br/>
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=osamasu&show_icons=true&theme=dark&hide_border=true&bg_color=1a0500&title_color=B8341E&icon_color=B8341E&text_color=e6e6e6"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=osamasu&layout=compact&theme=dark&hide_border=true&bg_color=1a0500&title_color=B8341E&text_color=e6e6e6"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=osamasu&theme=dark&hide_border=true&background=1a0500&ring=B8341E&fire=B8341E&currStreakLabel=B8341E"/>
-
-</div>
-
-<br/>
-
-## 🍥 Anime Corner
-
-> *"I am the hope of the universe. I am the answer to all living things that
-> cry out for peace. I am protector of the innocent. I am the light in the
-> darkness. I am truth. Ally to good! Nightmare to you!"*
-> **— Goku, Dragon Ball**
-
-> *"I want to know what 'I love you' means."*
-> **— Violet Evergarden**
-
-Two very different shows, one shared obsession: **relentless self-improvement**.
-Goku never stops training. Violet never stops learning what the words she
-writes actually mean. I try to code the same way — never satisfied with
-"it works," always chasing "it's right."
-
-<br/>
-
-## 📈 Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=osamasu&theme=react-dark&bg_color=1a0500&color=B8341E&line=B8341E&point=ffffff&hide_border=true" width="100%"/>
-
-</div>
 
 <br/>
 
