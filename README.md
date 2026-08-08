@@ -38,36 +38,36 @@ data integrity, clean architecture, and interfaces people actually enjoy using.
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/CORE%20STACK-B8341E?style=for-the-badge&labelColor=1a0500" height="26"/>
-
-<br/><br/>
-
-<img src="https://skillicons.dev/icons?i=cs,dotnet,docker,redis&theme=dark" height="90"/>
-
+<table>
+<tr>
+<td align="right" width="42%">
+<img src="https://img.shields.io/badge/BACKEND_%26_DATA-B8341E?style=for-the-badge&labelColor=1a0500" alt="Backend & Data"/>
+</td>
+<td align="left" width="58%">
+<img src="https://skillicons.dev/icons?i=cs,dotnet,docker,redis&theme=dark" height="58"/>
 <br/>
-
-<sub><b>C#</b> &nbsp;·&nbsp; <b>.NET</b> &nbsp;·&nbsp; <b>Docker</b> &nbsp;·&nbsp; <b>Redis</b> &nbsp;·&nbsp; <b>SQL Server</b></sub>
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/ALSO%20USE-3a3a3a?style=for-the-badge&labelColor=1a0500" height="22"/>
-
-<br/><br/>
-
-<img src="https://skillicons.dev/icons?i=vue,nuxt,js,ts,html,css,cpp,git,bash,linux,androidstudio,postman,vscode&theme=dark" height="30"/>
+<sub>C# &nbsp;·&nbsp; .NET &nbsp;·&nbsp; Docker &nbsp;·&nbsp; Redis &nbsp;·&nbsp; SQL Server</sub>
+</td>
+</tr>
+<tr>
+<td align="right">
+<img src="https://img.shields.io/badge/FRONTEND-2b2b2b?style=for-the-badge&labelColor=1a0500" alt="Frontend"/>
+</td>
+<td align="left">
+<img src="https://skillicons.dev/icons?i=vue,nuxt,js,ts,html,css&theme=dark" height="34"/>
+</td>
+</tr>
+<tr>
+<td align="right">
+<img src="https://img.shields.io/badge/TOOLING-2b2b2b?style=for-the-badge&labelColor=1a0500" alt="Tooling"/>
+</td>
+<td align="left">
+<img src="https://skillicons.dev/icons?i=cpp,git,bash,linux,androidstudio,postman,vscode&theme=dark" height="34"/>
+</td>
+</tr>
+</table>
 
 </div>
-
-<br/>
-
-| Category | Stack |
-|---|---|
-| 🔴 **Backend / Desktop** | **C#, .NET, WinForms, ERP & business-logic systems** |
-| 🔴 **Database** | **SQL Server** |
-| 🔴 **DevOps** | **Docker, Redis** |
-| ⚪ Frontend | Vue, Nuxt, HTML, CSS, JS/TS |
-| ⚪ Languages | C++, VB.NET, Bash |
-| ⚪ Tools | Git, Postman, Linux, Android, VS Code |
 
 <br/>
 
