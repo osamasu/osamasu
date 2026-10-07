@@ -47,12 +47,12 @@ data integrity, clean architecture, and interfaces people actually enjoy using.
 
 <div align="left">
 
-<table width="120%">
+<table width="100%">
 <tr>
-<td align="center" width="42%">
+<td align="center" width="35%">
 <img src="https://img.shields.io/badge/BACKEND_%26_DATA-B8341E?style=for-the-badge&labelColor=1a0500" alt="Backend & Data"/>
 </td>
-<td align="left" width="68%">
+<td align="left" width="65%">
 <img src="https://skillicons.dev/icons?i=cs,cpp,dotnet,docker,redis,mysql&theme=dark" height="58"/>
 <br/>
 </td>
@@ -88,7 +88,7 @@ data integrity, clean architecture, and interfaces people actually enjoy using.
 
 ### 💼 ERP & Business Systems
 Inventory, invoicing, reporting and workflow tools built in C#/.NET with
-SQL Server — designed for teams who need software that just works,
+SQL Server / MySQL — designed for teams who need software that just works,
 every single shift.
 
 </td>
@@ -120,7 +120,7 @@ Front-ends built with Vue, TypeScript and Bootstrap — including my own site,
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0500,50:B8341E,100:1a0500&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0500,50:B8341E,100:1a0500&height=120&section=footer&animation=fadeIn" width="100%"/>
 
 **[osama.live](https://osama.live) · Open to work in Riyadh · Let's build something worth shipping**
 
