@@ -39,9 +39,7 @@ data integrity, clean architecture, and interfaces people actually enjoy using.
 
 <br/><br/>
 
-> ### *"Software should work every single shift —<br/>not just on demo day."*
->
-> — **Osama Thabit**
+> ### *"One Rose 🌹 for a living person<br/>is better than a bouquet of roses 💐 on his grave."*
 
 <br clear="right"/>
 
