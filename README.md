@@ -1,74 +1,47 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0500,50:B8341E,100:1a0500&height=220&section=header&text=OSAMA%20THABIT&fontSize=62&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%C2%B7%20Full-Stack&descAlignY=58&descSize=20&animation=fadeIn" width="100%"/>
-
-<a href="https://osama.live" target="_blank">
-  <img src="https://img.shields.io/badge/🌐_osama.live-VISIT_MY_WEBSITE-B8341E?style=for-the-badge&labelColor=1a0500&logoColor=white" height="55" alt="website"/>
-</a>
-
-<br/>
-
-[![LinkedIn](https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=OSAMA%20THABIT&color=0077B5&logoColor=white&labelColor=1a0500&style=for-the-badge)](https://www.linkedin.com/in/osama-thabit-mohammed/)
-[![Outlook](https://img.shields.io/static/v1?message=Email&logo=microsoft-outlook&label=osamataher306&color=0078D4&logoColor=white&labelColor=1a0500&style=for-the-badge)](mailto:osamataher306@outlook.com)
-[![Resume](https://img.shields.io/static/v1?message=Resume&logo=googledrive&label=CV&color=B8341E&logoColor=white&labelColor=1a0500&style=for-the-badge)](https://drive.google.com/file/d/1j1L8Dflj5OqbhbgQa4h1rp5LNSxOe1zk/view)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0500,50:B8341E,100:1a0500&height=160&section=header&text=OSAMA%20THABIT&fontSize=56&fontColor=ffffff&fontAlignY=36&animation=fadeIn" width="100%"/>
 
 </div>
 
-<br/>
+<img align="right" width="300" src="assets/goku.gif" alt="Goku powering up"/>
 
-## 👋 About Me
+### Hi, I'm Osama 👋
 
-```yaml
-name: Osama Thabit
-role: Full-Stack Software Engineer
-base: Riyadh, Saudi Arabia
-focus: Clean APIs, pixel-perfect UIs, and ERP systems that don't break at 2am
-```
+<a href="https://osama.live" target="_blank">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=B8341E&vCenter=true&width=480&height=40&lines=Full-Stack+Software+Engineer;C%23+%2F+.NET+%C2%B7+Vue+%2B+TypeScript;ERP+systems+that+don%27t+break+at+2am;Based+in+Riyadh+%F0%9F%87%B8%F0%9F%87%A6;Powered+by+coffee+and+Ctrl%2BZ+%E2%98%95" alt="Typing intro"/>
+</a>
 
 I build **ERP systems**, desktop tools, and web apps — from C#/.NET back-office
-software to Vue/Nuxt front-ends. I care about the boring-but-critical stuff:
-data integrity, clean architecture, and interfaces people actually enjoy using.
+software to Vue + TypeScript front-ends.
 
-<img align="right" width="300" src="assets/goku.gif"/>
+<a href="https://osama.live" target="_blank"><img src="https://img.shields.io/badge/🌐_osama.live-Website-B8341E?style=for-the-badge&labelColor=1a0500" alt="Website"/></a>
+<a href="https://www.linkedin.com/in/osama-thabit-mohammed/"><img src="https://img.shields.io/badge/in-LinkedIn-0077B5?style=for-the-badge&labelColor=1a0500" alt="LinkedIn"/></a>
+<a href="mailto:osamataher306@outlook.com"><img src="https://img.shields.io/badge/%40-Email-0078D4?style=for-the-badge&labelColor=1a0500" alt="Email"/></a>
+<a href="https://drive.google.com/file/d/1j1L8Dflj5OqbhbgQa4h1rp5LNSxOe1zk/view"><img src="https://img.shields.io/badge/CV-Resume-B8341E?style=for-the-badge&labelColor=1a0500" alt="Resume"/></a>
 
 <br clear="right"/>
 
-## 🛠️ Tech Stack
+<div align="center">
 
-<div align="left">
-
-<table width="120%">
-<tr>
-<td align="center" width="42%">
-<img src="https://img.shields.io/badge/BACKEND_%26_DATA-B8341E?style=for-the-badge&labelColor=1a0500" alt="Backend & Data"/>
-</td>
-<td align="left" width="68%">
-<img src="https://skillicons.dev/icons?i=cs,cpp,dotnet,docker,redis,mysql&theme=dark" height="58"/>
-<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<img src="https://img.shields.io/badge/DAILY_TOOLS-1D72B8?style=for-the-badge&labelColor=1a0500" alt="Tools"/>
-</td>
-<td align="left">
-<img src="https://skillicons.dev/icons?i=git,bash,linux,postman,vscode,visualstudio&theme=dark" height="47"/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<img src="https://img.shields.io/badge/FRONTEND-B81D70?style=for-the-badge&labelColor=1a0500" alt="Frontend"/>
-</td>
-<td align="left">
-<img src="https://skillicons.dev/icons?i=vue,bootstrap,js,ts,html,css&theme=dark" height="39"/>
-</td>
-</tr>
-
-</table>
+### *"One Rose 🌹 for a living person<br/>is better than a bouquet of roses 💐 on his grave."*
 
 </div>
 
-<br/>
+## 🛠️ Tech Stack
+
+<table width="100%">
+<tr>
+<th width="33%">⚙️ Backend &amp; Data</th>
+<th width="33%">🎨 Frontend</th>
+<th width="33%">🧰 Daily Tools</th>
+</tr>
+<tr>
+<td align="center"><img src="https://skillicons.dev/icons?i=cs,cpp,dotnet,docker,redis,mysql&perline=3&theme=dark" alt="C#, C++, .NET, Docker, Redis, MySQL"/></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=vue,ts,js,bootstrap,html,css&perline=3&theme=dark" alt="Vue, TypeScript, JavaScript, Bootstrap, HTML, CSS"/></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=git,bash,linux,postman,vscode,visualstudio&perline=3&theme=dark" alt="Git, Bash, Linux, Postman, VS Code, Visual Studio"/></td>
+</tr>
+</table>
 
 ## 🏢 What I Build
 
@@ -78,14 +51,14 @@ data integrity, clean architecture, and interfaces people actually enjoy using.
 
 ### 💼 ERP & Business Systems
 Inventory, invoicing, reporting and workflow tools built in C#/.NET with
-SQL Server — designed for teams who need software that just works,
+SQL Server / MySQL — designed for teams who need software that just works,
 every single shift.
 
 </td>
 <td width="50%" valign="top">
 
 ### 🌐 Web & Portfolio
-Front-ends built with Vue/Nuxt — including my own site,
+Front-ends built with Vue, TypeScript and Bootstrap — including my own site,
 **[osama.live](https://osama.live)** — clean, fast, and no bloat.
 
 </td>
@@ -94,9 +67,23 @@ Front-ends built with Vue/Nuxt — including my own site,
 
 <br/>
 
+## 🐍 Contribution Activity
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0500,50:B8341E,100:1a0500&height=120&section=footer"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/osamasu/osamasu/output/github-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/osamasu/osamasu/output/github-snake.svg"/>
+  <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/osamasu/osamasu/output/github-snake-dark.svg"/>
+</picture>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0500,50:B8341E,100:1a0500&height=120&section=footer&animation=fadeIn" width="100%"/>
 
 **[osama.live](https://osama.live) · Open to work in Riyadh · Let's build something worth shipping**
 
