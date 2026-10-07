@@ -37,13 +37,11 @@ data integrity, clean architecture, and interfaces people actually enjoy using.
 
 <img align="right" width="300" src="assets/goku.gif" alt="Goku powering up"/>
 
-### 😄 Fun Facts
+<br/><br/>
 
-- 🐛 My code doesn't have bugs — it has *surprise features*
-- 🐳 "It works on my machine" — so I shipped my machine in Docker
-- 🔍 Favourite debugger: `Console.WriteLine("here 2");`
-- ☕ Coffee in, ERP systems out
-- ⚡ The gif → me deploying to production on a Thursday night
+> ### *"Software should work every single shift —<br/>not just on demo day."*
+>
+> — **Osama Thabit**
 
 <br clear="right"/>
 
