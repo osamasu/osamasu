@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0500,50:B8341E,100:1a0500&height=220&section=header&text=OSAMA%20THABIT&fontSize=62&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%C2%B7%20Full-Stack&descAlignY=58&descSize=20&animation=fadeIn" width="100%"/>
 
 <a href="https://osama.live" target="_blank">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=B8341E&center=true&vCenter=true&width=600&lines=Full-Stack+Software+Engineer;C%23+%2F+.NET+%C2%B7+Vue+%2B+TypeScript;ERP+systems+that+don%27t+break+at+2am;Based+in+Riyadh+%F0%9F%87%B8%F0%9F%87%A6" alt="Typing intro"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=B8341E&center=true&vCenter=true&width=600&lines=Full-Stack+Software+Engineer;C%23+%2F+.NET+%C2%B7+Vue+%2B+TypeScript;ERP+systems+that+don%27t+break+at+2am;Based+in+Riyadh+%F0%9F%87%B8%F0%9F%87%A6;Powered+by+coffee+and+Ctrl%2BZ+%E2%98%95" alt="Typing intro"/>
 </a>
 
 <br/>
@@ -35,7 +35,15 @@ I build **ERP systems**, desktop tools, and web apps — from C#/.NET back-offic
 software to Vue + TypeScript front-ends. I care about the boring-but-critical stuff:
 data integrity, clean architecture, and interfaces people actually enjoy using.
 
-<img align="right" width="300" src="assets/goku.gif"/>
+<img align="right" width="300" src="assets/goku.gif" alt="Goku powering up"/>
+
+### 😄 Fun Facts
+
+- 🐛 My code doesn't have bugs — it has *surprise features*
+- 🐳 "It works on my machine" — so I shipped my machine in Docker
+- 🔍 Favourite debugger: `Console.WriteLine("here 2");`
+- ☕ Coffee in, ERP systems out
+- ⚡ The gif → me deploying to production on a Thursday night
 
 <br clear="right"/>
 
