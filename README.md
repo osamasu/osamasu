@@ -6,7 +6,7 @@
 
 <img align="right" width="300" src="assets/goku.gif" alt="Goku powering up"/>
 
-### Hi, I'm Osama 👋
+### Hi 
 
 <a href="https://osama.live" target="_blank">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=B8341E&vCenter=true&width=460&height=44&lines=Full-Stack+Software+Engineer;C%23+%2F+.NET+%C2%B7+Vue+%2B+TypeScript;ERP+systems+that+don%27t+break+at+2am;Based+in+Riyadh+%F0%9F%87%B8%F0%9F%87%A6;Powered+by+coffee+and+Ctrl%2BZ+%E2%98%95" alt="Typing intro"/>
