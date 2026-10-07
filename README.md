@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0500,50:B8341E,100:1a0500&height=160&section=header&text=OSAMA%20THABIT&fontSize=56&fontColor=ffffff&fontAlignY=36&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0500,50:B8341E,100:1a0500&height=220&section=header&text=OSAMA%20THABIT&fontSize=62&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%C2%B7%20Full-Stack&descAlignY=58&descSize=20&animation=fadeIn" width="100%"/>
 
 </div>
 
@@ -9,16 +9,20 @@
 ### Hi, I'm Osama 👋
 
 <a href="https://osama.live" target="_blank">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=B8341E&vCenter=true&width=480&height=40&lines=Full-Stack+Software+Engineer;C%23+%2F+.NET+%C2%B7+Vue+%2B+TypeScript;ERP+systems+that+don%27t+break+at+2am;Based+in+Riyadh+%F0%9F%87%B8%F0%9F%87%A6;Powered+by+coffee+and+Ctrl%2BZ+%E2%98%95" alt="Typing intro"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=B8341E&vCenter=true&width=460&height=44&lines=Full-Stack+Software+Engineer;C%23+%2F+.NET+%C2%B7+Vue+%2B+TypeScript;ERP+systems+that+don%27t+break+at+2am;Based+in+Riyadh+%F0%9F%87%B8%F0%9F%87%A6;Powered+by+coffee+and+Ctrl%2BZ+%E2%98%95" alt="Typing intro"/>
 </a>
 
 I build **ERP systems**, desktop tools, and web apps — from C#/.NET back-office
 software to Vue + TypeScript front-ends.
 
-<a href="https://osama.live" target="_blank"><img src="https://img.shields.io/badge/🌐_osama.live-Website-B8341E?style=for-the-badge&labelColor=1a0500" alt="Website"/></a>
-<a href="https://www.linkedin.com/in/osama-thabit-mohammed/"><img src="https://img.shields.io/badge/in-LinkedIn-0077B5?style=for-the-badge&labelColor=1a0500" alt="LinkedIn"/></a>
-<a href="mailto:osamataher306@outlook.com"><img src="https://img.shields.io/badge/%40-Email-0078D4?style=for-the-badge&labelColor=1a0500" alt="Email"/></a>
-<a href="https://drive.google.com/file/d/1j1L8Dflj5OqbhbgQa4h1rp5LNSxOe1zk/view"><img src="https://img.shields.io/badge/CV-Resume-B8341E?style=for-the-badge&labelColor=1a0500" alt="Resume"/></a>
+<p>
+  <a href="https://osama.live" target="_blank"><img height="48" src="https://img.shields.io/badge/🌐_osama.live-Website-B8341E?style=for-the-badge&labelColor=1a0500" alt="Website"/></a>
+</p>
+<p>
+  <a href="https://www.linkedin.com/in/osama-thabit-mohammed/"><img height="38" src="https://img.shields.io/badge/in-LinkedIn-0077B5?style=for-the-badge&labelColor=1a0500" alt="LinkedIn"/></a>&nbsp;
+  <a href="mailto:osamataher306@outlook.com"><img height="38" src="https://img.shields.io/badge/%40-Email-0078D4?style=for-the-badge&labelColor=1a0500" alt="Email"/></a>&nbsp;
+  <a href="https://drive.google.com/file/d/1j1L8Dflj5OqbhbgQa4h1rp5LNSxOe1zk/view"><img height="38" src="https://img.shields.io/badge/CV-Resume-B8341E?style=for-the-badge&labelColor=1a0500" alt="Resume"/></a>
+</p>
 
 <br clear="right"/>
 
@@ -27,6 +31,8 @@ software to Vue + TypeScript front-ends.
 ### *"One Rose 🌹 for a living person<br/>is better than a bouquet of roses 💐 on his grave."*
 
 </div>
+
+<br/>
 
 ## 🛠️ Tech Stack
 
@@ -42,6 +48,8 @@ software to Vue + TypeScript front-ends.
 <td align="center"><img src="https://skillicons.dev/icons?i=git,bash,linux,postman,vscode,visualstudio&perline=3&theme=dark" alt="Git, Bash, Linux, Postman, VS Code, Visual Studio"/></td>
 </tr>
 </table>
+
+<br/>
 
 ## 🏢 What I Build
 
