@@ -3,6 +3,12 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0500,50:B8341E,100:1a0500&height=220&section=header&text=OSAMA%20THABIT&fontSize=62&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%C2%B7%20Full-Stack&descAlignY=58&descSize=20&animation=fadeIn" width="100%"/>
 
 <a href="https://osama.live" target="_blank">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=B8341E&center=true&vCenter=true&width=600&lines=Full-Stack+Software+Engineer;C%23+%2F+.NET+%C2%B7+Vue+%2F+Nuxt;ERP+systems+that+don%27t+break+at+2am;Based+in+Riyadh+%F0%9F%87%B8%F0%9F%87%A6" alt="Typing intro"/>
+</a>
+
+<br/>
+
+<a href="https://osama.live" target="_blank">
   <img src="https://img.shields.io/badge/🌐_osama.live-VISIT_MY_WEBSITE-B8341E?style=for-the-badge&labelColor=1a0500&logoColor=white" height="55" alt="website"/>
 </a>
 
@@ -91,6 +97,20 @@ Front-ends built with Vue/Nuxt — including my own site,
 </td>
 </tr>
 </table>
+
+<br/>
+
+## 🐍 Contribution Activity
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/osamasu/osamasu/output/github-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/osamasu/osamasu/output/github-snake.svg"/>
+  <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/osamasu/osamasu/output/github-snake-dark.svg"/>
+</picture>
+
+</div>
 
 <br/>
 
